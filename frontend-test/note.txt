@@ -1,0 +1,1 @@
+https://speakerdeck.com/vjwilson/front-end-testing-with-mocha#stargazers
