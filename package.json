@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -r jscoverage",
+    "coveralls": "mocha -R mocha-lcov-reporter -r jscoverage | coveralls"
   },
   "keywords": [],
   "author": "",
